@@ -1,5 +1,11 @@
 # Make the AI Judge Laugh
 
+[![make.fun · u-alfasurya91-make-the-ai-judge-laugh-6ed40225](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![rank](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/exrazor01-creator/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/rank.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![reward](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/exrazor01-creator/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/reward.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+
+Bounty: https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225
+
 **Entry:** "The office fire drill is the only meeting where everyone shows up on time, because it is the only one with an actual exit."
 
 **Characters:** 122 (gate: 1–200, one line)
